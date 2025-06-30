@@ -62,7 +62,7 @@ Use Case Diagrams visually represent the interactions between users (actors) and
 ![alx-booking-uc png](https://github.com/user-attachments/assets/695ae5e9-e393-4015-b3b4-5b9506840524)
 
 ![Use Case Diagram for Booking System]()
-![alx-booking-uc](https://github.com/user-attachments/assets/6efe5d0a-1587-42e0-95ff-aba6f3e989a0)
+![alx-booking-uc]
 
 ---
 
